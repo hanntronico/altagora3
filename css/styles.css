@@ -398,21 +398,17 @@ body{
 	padding: 0;
 }
 
-#menuizq_pres ul li {
+#menuizq_pres #opc {
 	background-image: url("../imagenes/vinheta.png");
 	background-repeat: no-repeat;
 	background-position: left;
-}
-
-#menuizq_pres #opc {
 	border: 1px dotted #808080;
 	border-left: none;
 	border-top: none;
 	border-right: none;	
-	/*padding: 12px 30px 5px;*/
 	padding-left: 30px;
-	padding-top: 11px;
-	height: 26px;
+	padding-top: 14px;
+	height: 22px;
 }
 
 #menuizq_pres #opc:hover {
@@ -420,32 +416,9 @@ body{
 	background-repeat: no-repeat;
 	background-position: left;
 	color: #FFFFFF;
-	font-size: 16px; 
+	font-size: 15px; 
 	text-shadow: 0.1em 0.1em #000000;	
 }
-
-/*#menuizq_pres #opc, #menuizq_pres #opc:hover {
-	background-image: url("../imagenes/vinheta.png");
-	background-repeat: no-repeat;
-	background-position: left;
-	padding: 12px 30px 5px;
-	border: 1px dotted #808080;
-	font-size: 16px; 
-	border-left: none;
-	border-top: none;
-	border-right: none;
-}*/
-
-/*#menuizq_pres #opc:hover {
-	background: #79C0EA;
-	background-image: url("../imagenes/vinheta.png");
-	background-repeat: no-repeat;
-	background-position: left;
-	color: #FFFFFF;
-	font-size: 16px; 	
-	text-shadow: 0.1em 0.1em #000000;
-}
-*/
 
 
 /**************************************************************************/
