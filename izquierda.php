@@ -1,8 +1,6 @@
 <div id="izquierda">
 	
-	<div id="logo_izq">
-		<img src="imagenes/escuela_postgrado.jpg" width="197" height="55" alt="">
-	</div>
+	<?php include ("logo_altagora.php"); ?>
 
 	<div id="menuizq">
 		<a href="presentacion.php"><div id="opcmenu1">Presentaci&oacute;n</div></a>

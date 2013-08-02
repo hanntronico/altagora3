@@ -14,7 +14,7 @@
 		<?php include ("izq_presentacion.php"); ?>
 		
 		
-		<div class="conteni_hann">
+		<div id="cuerpo">
 			<h1>Presentaci&oacute;n</h1>
 			<div id="foto">
 				<img src="imagenes/foto_presentacion.jpg" alt="foto ciudad"> <br><br>
@@ -49,14 +49,11 @@
 			</div>
 		</div>
 
-		<br>
+		<br><br><br>
 
-		<?php //include ("pie.php"); ?>
-		<!-- <br><br><br> -->
+		<?php include ("pie.php"); ?>
+		<br><br>
 	</div>
-
-
-
 
 </body>
 </html>

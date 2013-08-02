@@ -14,7 +14,7 @@
 		<?php include ("izq_informacion.php"); ?>
 		
 		
-		<div class="conteni_hann">
+		<div id="cuerpo">
 			<h1>Informaci&oacute;n</h1>
 			<div id="foto">
 				<img src="imagenes/foto_informacion.jpg" alt="foto ciudad"> <br>
@@ -38,7 +38,7 @@
 			</div>
 		</div>
 
-		<br>
+		<br><br><br>
 
 		<?php include ("pie.php"); ?>
 		<br><br><br>

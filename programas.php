@@ -13,8 +13,7 @@
 		<?php include ("cabecera.php"); ?>
 		<?php include ("izq_programas.php"); ?>
 		
-		
-		<div class="conteni_hann">
+		<div id="cuerpo">
 			<h1>Programas Académicos</h1>
 			<div id="foto">
 				<img src="imagenes/foto_programas.jpg" alt="foto ciudad"> <br><br>

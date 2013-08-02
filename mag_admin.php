@@ -13,8 +13,7 @@
 		<?php include ("cabecera.php"); ?>
 		<?php include ("izq_mag_admin.php"); ?>
 		
-		
-		<div class="conteni_hann">
+		<div id="cuerpo">
 			<h1>Maestría en Administración de Negocios </h1>
 			<div id="foto">
 				<img src="imagenes/foto_mag_admin.jpg" alt="foto ciudad"> <br><br>

@@ -25,12 +25,13 @@
 
 		<div id="header2">
 			<div id="boxlogoA">
-				<img src="imagenes/logo_altagora2.png" alt="">
+				<a href="index.php"><img src="imagenes/logo_altagora2.png" alt=""></a>
 			</div>
 
 			<div id="logo_udch">
-				<img src="imagenes/logo_udch.png" alt="">
+				<a href="index.php"><img src="imagenes/logo_udch.png" alt=""></a>
 			</div>	
+
 			<div id="buscar">
 				<!-- <img src="imagenes/logo_udch.png" alt=""> -->
 				<form action="busca.php" method="get">

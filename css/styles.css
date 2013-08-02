@@ -76,7 +76,7 @@ body{
 
 
 /******************************** NUEVO CSS  *****************************************/
-#izquierda, #center, #derecha_bar {
+#izquierda, #center, #derecha_bar, #cuerpo {
 	display: inline-block;
 	vertical-align: top;
 }
@@ -110,6 +110,10 @@ body{
 	/*text-align: center;*/
 	margin-bottom: 45px;
 }
+
+#logo_izq img {
+	border: none;
+} 
 
 #menuizq a {
 	text-decoration: none;
@@ -194,6 +198,10 @@ body{
 	padding-top: 29px; 
 	margin-left: 8px; 
 	width: 250px;		
+}
+
+#logo_udch img, #boxlogoA img {
+	border: none;
 }
 
 #buscar {
@@ -420,8 +428,59 @@ body{
 	text-shadow: 0.1em 0.1em #000000;	
 }
 
+#cuerpo{
+	/*background: #808040;*/
+	padding: 20px 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 22px;
+	width: 705px;
+}
 
-/**************************************************************************/
+#cuerpo h1{
+	font-weight: bold;
+	color: #0072B9;
+	border: 1px solid #808080;
+	border-right: 0px;
+	border-left: 0px;
+	border-top: 0px;
+	padding-bottom: 12px;
+}
+
+#foto {
+	background-color: #808080;
+	box-shadow: 7px 7px 7px #888888;
+	height:420px;
+	margin: 0px auto;
+	width:650px;
+}
+
+
+
+/*************************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -593,28 +652,9 @@ body{
 
 }
 
-.conteni_hann{
-/*	position:relative;
-	left: 197px;
-	width: 680px;*/
-	/*top: 92px;*/
-	/*border: 1px solid #808080;*/
-	padding: 120px 0px 0px 15px;
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 14px;
-	line-height: 22px;
-	z-index: -1;
-}
 
-.conteni_hann h1{
-	font-weight: bold;
-	color: #0072B9;
-	border: 1px solid #808080;
-	border-right: 0px;
-	border-left: 0px;
-	border-top: 0px;
-	padding-bottom: 12px;
-}
+
+
 
 #texto_prese {
 	border: 1px solid #D2D3D5;
@@ -941,26 +981,6 @@ p{
 	padding-bottom: 12px;
 }
 
-#foto {
-	background-color: #808080;
-	width:650px;
-	height:420px;
-	box-shadow: 7px 7px 7px #888888;
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
 #opcion1 {
 	position:absolute;
 	left:0px;
@@ -1106,6 +1126,7 @@ p{
 	font-weight: bold;
 	font-size: 13px; 
 	color: #4B4B4D;
+	text-decoration: none;
 }
 
 #menuizq_inform a:hover #opcinfo01, 
@@ -1135,9 +1156,6 @@ p{
 
 
 #opcinfo01{
-	position:absolute;
-	left:0px;
-	top:276px;
 	width:170px;
 	height:23px;
 	background-color: #FFFFFF;
@@ -1146,9 +1164,6 @@ p{
 }
 
 #opcinfo02{
-	position:absolute;
-	left:0px;
-	top:314px;
 	width:170px;
 	height:23px;
 	background-color: #FFFFFF;
@@ -1157,9 +1172,6 @@ p{
 }
 
 #opcinfo03{
-	position:absolute;
-	left:0px;
-	top:354px;
 	width:170px;
 	height:23px;
 	background-color: #FFFFFF;
@@ -1168,9 +1180,6 @@ p{
 }
 
 #opcinfo04{
-	position:absolute;
-	left:0px;
-	top:392px;
 	width:170px;
 	height:23px;
 	background-color: #FFFFFF;
@@ -1179,9 +1188,6 @@ p{
 }
 
 #opcinfo05{
-	position:absolute;
-	left:0px;
-	top:430px;
 	width:170px;
 	height:23px;
 	background-color: #FFFFFF;
@@ -1190,9 +1196,6 @@ p{
 }
 
 #opcinfo06{
-	position:absolute;
-	left:0px;
-	top:468px;
 	width:170px;
 	height:23px;
 	background-color: #FFFFFF;
@@ -1235,9 +1238,6 @@ p{
 
 
 #opcprog01{
-	position:absolute;
-	left:0px;
-	top:276px;
 	width:170px;
 	height:23px;
 	background-color: #FFFFFF;
@@ -1253,9 +1253,6 @@ p{
 }
 
 #opcprog02{
-	position:absolute;
-	left:0px;
-	top:314px;
 	width:195px;
 	height:120px;
 	background-color: #FFFFFF;
@@ -1312,9 +1309,6 @@ p{
 }
 
 #opcmagadmin01{
-	position:absolute;
-	left:0px;
-	top:276px;
 	width:170px;
 	height:23px;
 	background-color: #FFFFFF;
@@ -1343,13 +1337,10 @@ p{
 }
 
 #opcmagadmin02 {
-	position:absolute;
-	left:0px;
-	top:314px;
-	width:195px;
-	height:120px;
 	background-color: #FFFFFF;
 	font-family: Arial, Helvetica, sans-serif;
+	height:120px;
+	width:195px;
 /*	padding-top: 7px;
 	padding-left: 27px;*/
 }

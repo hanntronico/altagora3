@@ -1,3 +1,5 @@
-		<div id="logo">
-			<img src="imagenes/logo_altagora_grande.jpg" width="197" height="184" alt="">
+		<div id="logo_izq">
+			<a href="index.php">
+				<img src="imagenes/escuela_postgrado.jpg" width="197" height="55" alt="">
+			</a>	
 		</div>

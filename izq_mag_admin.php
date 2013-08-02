@@ -4,6 +4,4 @@
 
 		<?php include ("menu_mag_admin.php"); ?>
 
-		<div id="spcmenu"></div>
-
 	</div>
