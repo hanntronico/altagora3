@@ -47,13 +47,13 @@ para poder atenderlos</p>
 							<tr>
 								<td class="label"><label>Nombres:</label></td>
 								<td><input type="text" name="txtnombres" value="" placeholder="Escriba aquí su nombre"></td>
-								<td>*</td>
+								<td class="dat_req">*</td>
 							</tr>
 							
 							<tr>
 								<td class="label"><label>Apellidos:</label></td>
 								<td><input type="email" name="txtape" value="" placeholder="Escriba aquí sus apellidos"></td>		
-								<td>*</td>
+								<td class="dat_req">*</td>
 							</tr>
 							<tr>
 								<td class="label"><label>Dirección:</label></td>
@@ -63,24 +63,24 @@ para poder atenderlos</p>
 							<tr>
 								<td class="label"><label>Teléfono:</label></td>
 								<td><input type="text" name="txtelefono" value="" placeholder="Escriba aquí su teléfono"></td>
-								<td>*</td>
+								<td class="dat_req">*</td>
 							</tr>
 							<tr>
 								<td class="label"><label>Correo electrónico:</label></td>
 								<td><input type="text" name="txtemail" value="" placeholder="Escriba aquí su correo"></td>
-								<td>*</td>
+								<td class="dat_req">*</td>
 							</tr>
 
 							<tr>
 								<td class="label"><label>Asunto:</label></td>
 								<td><input type="text" name="txtasunto" value="" placeholder="Escriba aquí el asunto"></td>
-								<td>*</td>
+								<td class="dat_req">*</td>
 							</tr>
 
 							<tr>
 								<td class="label"><label>Mensaje:</label></td>
-								<td><textarea name="txtmensaje"></textarea></td>
-								<td>*</td>
+								<td><textarea name="txtmensaje" rows="5"></textarea></td>
+								<td class="dat_req">*</td>
 							</tr>
 
 							<tr>

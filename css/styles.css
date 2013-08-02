@@ -458,6 +458,12 @@ body{
 	margin: 0px auto;
 }
 
+.dat_req {
+	font-size: 22px;
+	padding: 0px;
+	margin: 0px;
+
+}
 
 /*************************************************************************************************/
 
@@ -784,7 +790,7 @@ body{
 
 #content_form_contacto{
 	width: 590px;
-	height: 600px;
+/*	height: 600px;*/
 	background-color: #0E76B8;
 	padding: 30px;
 	color: #FFFFFF;
