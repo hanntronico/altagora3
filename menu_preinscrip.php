@@ -3,6 +3,4 @@
 				Ingresantes 2013 - I
 			</div></a>
 
-			<div id="menuspc"></div>
-
 		</div>

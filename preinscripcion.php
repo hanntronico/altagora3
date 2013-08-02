@@ -14,9 +14,9 @@
 		<?php include ("izq_preinscrip.php"); ?>
 		
 		
-		<div class="conteni_hann">
+		<div id="cuerpo">
 			<br><br>
-			<div id="foto">
+			<div id="foto2">
 				<img src="imagenes/img_preins.jpg" alt="foto ciudad"> <br>
 				<!-- Foto: Vista panor&aacute;mica del Campus Universitario UDCH -->
 			</div>

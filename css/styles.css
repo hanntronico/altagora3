@@ -447,14 +447,16 @@ body{
 	padding-bottom: 12px;
 }
 
-#foto {
+#foto, #foto2 {
 	background-color: #808080;
 	box-shadow: 7px 7px 7px #888888;
 	height:420px;
-	margin: 0px auto;
 	width:650px;
 }
 
+#foto {
+	margin: 0px auto;
+}
 
 
 /*************************************************************************************************/
@@ -1065,9 +1067,6 @@ p{
 
 
 #opcpres01{
-/*	position:absolute;
-	left:0px;
-	top:276px;*/
 	width:170px;
 	height:23px;
 	background-color: #FFFFFF;
@@ -1076,9 +1075,6 @@ p{
 }
 
 #opcpres02{
-/*	position:absolute;
-	left:0px;
-	top:314px;*/
 	width:170px;
 	height:23px;
 	background-color: #FFFFFF;
@@ -1087,9 +1083,6 @@ p{
 }
 
 #opcpres03{
-/*	position:absolute;
-	left:0px;
-	top:354px;*/
 	width:170px;
 	height:23px;
 	background-color: #FFFFFF;
@@ -1098,9 +1091,6 @@ p{
 }
 
 #opcpres04{
-/*	position:absolute;
-	left:0px;
-	top:392px;*/
 	width:170px;
 	height:23px;
 	background-color: #FFFFFF;
@@ -1109,9 +1099,6 @@ p{
 }
 
 #opcpres05{
-/*	position:absolute;
-	left:0px;
-	top:430px;*/
 	width:170px;
 	height:23px;
 	background-color: #FFFFFF;
@@ -1549,13 +1536,10 @@ a:hover #centro_idiomas{
 
 
 #doble_grado{
-	position:absolute;
-	left:0px;
-	top:344px;
 	width:170px;
 	height:160px;
 	background-color: #FFFFFF;
-	padding-top: 7px;
+	padding-top: 40px;
 	padding-left: 27px;
 }
 

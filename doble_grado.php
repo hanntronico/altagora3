@@ -14,7 +14,7 @@
 		<?php include ("izq_doble.php"); ?>
 		
 		
-		<div class="conteni_hann">
+		<div id="cuerpo">
 			<h1>Doble Grado Internacional</h1>
 			<div id="foto">
 				<img src="imagenes/foto_doblegrado.jpg" alt="foto ciudad"> <br><br>

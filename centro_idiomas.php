@@ -14,7 +14,7 @@
 		<?php include ("izq_cent_idio.php"); ?>
 		
 		
-		<div class="conteni_hann">
+		<div id="cuerpo">
 			<h1>Centro de Idiomas</h1>
 			<div id="foto">
 				<img src="imagenes/foto_cenrto.jpg" alt="foto ciudad"> <br><br>

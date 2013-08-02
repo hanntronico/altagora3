@@ -14,7 +14,7 @@
 		<?php include ("izq_preinscrip.php"); ?>
 		
 		
-		<div class="conteni_hann">
+		<div id="cuerpo">
 			<h1>Proceso de Admisión</h1>
 			<div id="foto">
 				<img src="imagenes/foto_admision.jpg" alt="foto ciudad"> <br><br>
