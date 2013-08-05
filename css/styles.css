@@ -906,12 +906,16 @@ body{
 	list-style: none;
 }
 
-.tblmini {
+.tblmini, .tblminiB {
 	color: #FFFFFF;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 9px;
 	background-color: #7E5FA7;
 	text-align: center;
+}
+
+.tblminiB {
+	font-size: 7px;	
 }
 
 .tblblanco {
@@ -934,15 +938,23 @@ body{
 	padding: 8px 4px 8px 4px;
 }
 
+/*.tblblancoB2 {
 
-.tblnegro {
+}*/
+
+
+.tblnegro, .tblnegroB {
 	color: #000000;
 	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
+	font-size: 11px;
 	font-weight: bolder;
 	text-align: center;
 	width: 200px;
 	line-height: 16px;
+}
+
+.tblnegroB {
+	font-size: 10px;	
 }
 
 .titu_prgmaestrias {
