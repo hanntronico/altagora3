@@ -24,6 +24,13 @@
 				<h2>Presentación </h2>
 				<p>La Maestría en Administración de Negocios busca desarrollar en sus partcipantes las habilidades, actitudes y dominio cognosctivo para realizar investigaciones de alto nivel sobre pensamiento administrativo a nivel global. Teorías y modelos de la administración y su impacto epistemológico en la realidad.</p>
 
+				<h2>Objetivos: </h2>
+				<ul>
+				    <li>Formar líderes empresariales, cuya capacidad responde al reto de impulsar el sector empresarial del país de una manera efectiva, relevante y acorde a los paradigmas gerenciales.</li>
+				    <li>Formar gerentes, en un ambiente académico de primer orden y en constante interactuar con el sector empresarial local y nacional, que puedan asumir posiciones gerenciales al terminar su formación.</li>
+				    <li>Brindar a los profesionales de la región la oportunidad de cambiar su quehacer profesional por el del gerencial brindándole la oportunidad de formalizar, ampliar y actualizar sus conocimientos en un ambiente académico altamente práctico.</li>
+				</ul>
+
 				<h2>Dirigido A:</h2>
 				<ul>
 				    <li>Egresado de cualquier licenciatura que busquen conocimiento de finanzas, mercadotecnia o logística en el plano corporativo, que cuenten con bases sólidas en matemática, administración, finanzas, contabilidad, mercadotecnia y economía, además de características personales tales como: creatividad, liderazgo, actividades, extracurriculares y motivación.</li>
