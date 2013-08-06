@@ -8,6 +8,7 @@
 </head>
 
 <body>
+
 <div id="contenedor">
 	<?php include ("cabecera.php"); ?>
 	<?php include ("izquierda.php"); ?>
@@ -20,7 +21,5 @@
 
 
 <br><br><br>
-
-
 </body>
 </html>
