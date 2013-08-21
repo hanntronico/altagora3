@@ -11,7 +11,7 @@
 
 	<div id="contenedor">
 		<?php include ("cabecera.php"); ?>
-		<?php include ("izq_mag_admin.php"); ?>
+		<?php include ("izq_mag_derpen.php"); ?>
 		
 		<div id="cuerpo">
 			<h1>Maestría en Derecho Penal y Procesal Penal</h1>
@@ -60,8 +60,8 @@
 						<td class="tblminiB">24 HORAS - 4 CRÉDITOS</td>
 						<td class="tblminiB">24 HORAS - 4 CRÉDITOS</td>
 						<td class="tblminiB">24 HORAS - 4 CRÉDITOS</td>
-						<td class="tblminiB">96</td>
-						<td class="tblminiB">16&nbsp;&nbsp;</td>
+						<td class="tblmini">96</td>
+						<td class="tblmini">16&nbsp;&nbsp;</td>
 					</tr>
 
 					<tr>
@@ -79,8 +79,8 @@
 						<td class="tblminiB">24 HORAS - 4 CRÉDITOS</td>
 						<td class="tblminiB">24 HORAS - 4 CRÉDITOS</td>
 						<td class="tblminiB">24 HORAS - 4 CRÉDITOS</td>
-						<td class="tblminiB">96</td>
-						<td class="tblminiB">16&nbsp;&nbsp;</td>
+						<td class="tblmini">96</td>
+						<td class="tblmini">16&nbsp;&nbsp;</td>
 					</tr>
 					<tr>
 						<td rowspan="2" bgcolor="#84AFCE" class="tblblanco">CURSOS <br> CICLO III</td>
@@ -97,8 +97,8 @@
 						<td class="tblminiB">24 HORAS - 4 CRÉDITOS</td>
 						<td class="tblminiB">24 HORAS - 4 CRÉDITOS</td>
 						<td class="tblminiB">24 HORAS - 4 CRÉDITOS</td>
-						<td class="tblminiB">96</td>
-						<td class="tblminiB">16&nbsp;&nbsp;</td>
+						<td class="tblmini">96</td>
+						<td class="tblmini">16&nbsp;&nbsp;</td>
 					</tr>
 					<tr>
 						<td rowspan="2" bgcolor="#84AFCE" class="tblblanco">CURSOS<br>CICLO IV</td>
@@ -115,8 +115,8 @@
 						<td class="tblminiB">24 HORAS - 4 CRÉDITOS</td>
 						<td class="tblminiB">24 HORAS - 4 CRÉDITOS</td>
 						<td class="tblminiB">24 HORAS - 4 CRÉDITOS</td>
-						<td class="tblminiB">96</td>
-						<td class="tblminiB">16&nbsp;&nbsp;</td>
+						<td class="tblmini">96</td>
+						<td class="tblmini">16&nbsp;&nbsp;</td>
 					</tr>
 
 					<tr>
@@ -126,8 +126,8 @@
 						<td>&nbsp;</td>
 						<td>&nbsp;</td>
 						<td>&nbsp;</td>
-						<td class="tblminiB">384</td>
-						<td class="tblminiB">54</td>
+						<td class="tblmini">384</td>
+						<td class="tblmini">54</td>
 					</tr>
 
 				</table>
