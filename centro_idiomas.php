@@ -22,13 +22,15 @@
 			<br><br>
 			<div id="texto_centro">
 				<h2>Presentación:</h2>	
-				<p>De acuerdo a un estimado publicado por el Consejo Británico más de mil millones de personas hablan o están tratando de hablar Inglés, se dice también que 300 millones de personas están aprendiendo Inglés en éste momento.</p>
+				<p>El centro de idiomas de la universidad particular de Chiclayo está destinado a ofrecer servicios educativos en el campo de la enseñanza-aprendizaje de idiomas extranjeros prioritariamente.</p>
 
-				<p>La novena parte de la información almacenada electrónicamente en el mundo esta en Inglés y la mayoría de los 50 millones de usuarios de internet usa el Inglés para comunicarse.</p>
+				<p>Los servicios que brinda el centro de idiomas de la Udch en el campo de la enseñanza – aprendizaje de idiomas extranjeros están dirigidos a los universitarios egresados y magister en el idioma de inglés y en los doctores en los idiomas de italiano o portugués.</p>
 
-				<p>Inglés es el idioma de la música pop, juegos de computadoras, del internet, tratos comerciales y de negocios, turismo y control de tráfico aéreo. Meles Zenawi, el Primer Ministro de Etiopía, dijo recientemente en una entrevista: Nosotros no tenemos futuro fuera del mundo globalizado y el lenguaje de ese mundo es el Inglés; no hay nada más importante que el Inglés. (The Guardian).</p>
+				<p>El desarrollo del centro de idiomas de la Udch, se basa en la participación  activa de todo el personal docente y administrativo, el cual de refleja en la calidad académica y el numero mas creciente de estudiantes, que han permitido fortalecimiento de nuestra  institución en la comunidad.</p>
 
-				<p>El Centro de Idiomas de la Universidad de Chiclayo te ofrece la oportunidad de estudiar el idioma, que hoy en día se ha convertido en el idioma universal. En las próximas líneas podrás enterarte de las múltiples opciones y facilidades que te ofrecemos para que aprendas un Inglés de Calidad.</p>
+				<p>El proceso de selección de docentes se realiza mediante el análisis de curriculum, pruebas elaboradas por la dirección, y entrevistas personales; para medir la capacidad de los postulantes a un puesto de trabajo en el centro de idiomas de la Udch; garantizando de esta manera una enseñanza de calidad en lenguas extranjeras. </p>
+				
+				<p>Como política de identificación se realiza reuniones técnicas mensuales con el personal docente y administrativo para evaluar los avances y dificultades que se presentan en el desarrollo de cada ciclo, con el fin de brindar un mejor servicio en la enseñanza de idiomas extranjeros.</p>
 
 			</div>
 		</div>

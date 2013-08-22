@@ -16,7 +16,7 @@
 		
 		<div id="cuerpo">
 			<h1>Presentaci&oacute;n</h1>
-			<div id="foto">
+			<div id="foto3">
 				<img src="imagenes/foto_presentacion.jpg" alt="foto ciudad"> <br><br>
 				Foto: Vista panor&aacute;mica del Campus Universitario UDCH
 			</div>

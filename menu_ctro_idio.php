@@ -1,17 +1,17 @@
 		<div id="menuizq_prese">
-			<a href="#" class="opcmenu"><div id="opcpres01">
+			<a href="centro_idiomas.php" class="opcmenu"><div id="opcpres01">
 				Presentación
 			</div></a>
 
 			<div id="menuspc"></div>
 			
-			<a href="#" class="opcmenu"><div id="opcpres02">
+			<a href="cursos_cto_idiomas.php" class="opcmenu"><div id="opcpres02">
 				Cursos
 			</div></a>
 			
 			<div id="menuspc"></div>
 			
-			<a href="#" class="opcmenu"><div id="opcpres03">
+			<a href="docentes_cto_idiomas.php" class="opcmenu"><div id="opcpres03">
 				Docentes 
 			</div></a>
 			

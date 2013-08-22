@@ -27,20 +27,22 @@
 						<td width="48%">
 							<div class="titu_prgmaestrias">Maestrías</div>
 							<ul>
-							    <li>Maestría en Administración de Negocios</li>
-							    <li>Maestría en Derecho Penal y Procesal Penal</li>
-							    <li>Maestría en Derecho Civil y de la Empresa</li>
-							    <li>Maestría en Docencia Universitaria y Gerencia Educativa</li>
-							    <li>Maestría en Tributación y Gestión Fiscal</li>
+							    <li><a href="mag_admin.php">Maestría en Administración de Negocios</a></li>
+							    <li><a href="mag_der_penal.php">Maestría en Derecho Penal y Procesal Penal</a></li>
+							    <li><a href="mag_ser_salud.php">Maestría en Gerencia en Servicio de Salud</a></li>
+							    <li><a href="mag_der_civil.php">Maestría en Derecho Civil y de la Empresa</a></li>
+							    <li><a href="mag_doc_univ.php">Maestría en Docencia Universitaria y Gerencia Educativa</a></li>
+							    <li><a href="mag_trib_gest.php">Maestría en Tributación y Gestión Fiscal</a></li>
 							</ul>
 						</td>
 						<td width="10"></td>
 						<td width="48%">
 							<div class="titu_prgdoctorados">Doctorados</div>
 							<ul>
-							    <li>Doctorado en Administración y Dirección de Empresas</li>
-							    <li>Doctorado en Gerencia de Salud</li>
-							    <li>Doctorado en Ciencias de la Educación</li>
+							    <li><a href="doc_admin.php">Doctorado en Administración y Dirección de Empresas</a></li>
+							    <li><a href="doc_ger_salud.php">Doctorado en Gerencia de Salud</a></li>
+							    <li><a href="doc_educ.php">Doctorado en Ciencias de la Educación</a></li>
+							    <li>&nbsp;</li>
 							    <li>&nbsp;</li>
 							    <li>&nbsp;</li>
 							</ul>	

@@ -11,10 +11,6 @@
 			
 			<div id="menuspc"></div>
 			
-			<a href="#"><div id="opcinfo04">Modalidades de Ingreso</div></a>
-
-			<div id="menuspc"></div>
-			
 			<a href="#"><div id="opcinfo05">Requisitos</div></a>
 
 			<div id="menuspc"></div>

@@ -3,7 +3,7 @@
 
 body{
 	/*background-color:#FFFF80; */
-	/*background: url();*/
+	background: #FFFFFF url("../imagenes/fondo1.jpg") no-repeat;
 	margin-top: 0px; 
 	margin-bottom: 0px; 
 	margin-left: 0px; 
@@ -444,7 +444,7 @@ body{
 	width: 705px;
 }
 
-#cuerpo h1{
+#cuerpo h1, #cuerpo h2{
 	font-weight: bold;
 	color: #0072B9;
 	border: 1px solid #808080;
@@ -452,6 +452,10 @@ body{
 	border-left: 0px;
 	border-top: 0px;
 	padding-bottom: 12px;
+}
+
+#cuerpo h2 {
+	font-size: 26px;
 }
 
 #foto, #foto2 {
@@ -464,6 +468,14 @@ body{
 #foto {
 	margin: 0px auto;
 }
+
+#foto3 {
+	background-color: #808080;
+	box-shadow: 7px 7px 7px #888888;
+	height:373px;
+	width:666px;
+}
+
 
 .dat_req {
 	font-size: 22px;
@@ -724,6 +736,16 @@ body{
 	border-top: none;
 }
 
+#texto_prog ul li a:visited, #texto_prog ul li a:link  {
+	text-decoration: none;
+	color: #0080C0; 
+}
+
+#texto_prog ul li a:hover {
+	text-decoration: underline;
+	color: #0080C0; 
+}
+
 #texto_magadmin {
 	font-family: Arial, Helvetica, sans-serif;
 	color: #373435;
@@ -973,6 +995,7 @@ body{
 	font-size: 24px;
 	font-weight: bolder;
 	color: #606062;
+	text-decoration: none;
 }
 
 .titu_prgdoctorados {
@@ -1266,7 +1289,7 @@ p{
 
 #opcprog02{
 	width:195px;
-	height:120px;
+	/*height:120px;*/
 	background-color: #FFFFFF;
 	font-family: Arial, Helvetica, sans-serif;
 /*	padding-top: 7px;
