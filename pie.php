@@ -4,4 +4,5 @@
 			Juan Manuel Iturregui Nº 133 4to Piso - Chiclayo Teléf: (074) - 228483 
 			&nbsp;&nbsp;|&nbsp;&nbsp;  Email: altagora@udch.edu.pe
 		</div>
+		<img id="fondo" src="imagenes/fondo4.jpg" alt=""/>
 	</div>

@@ -31,13 +31,14 @@
 				    <li>Brindar a los profesionales de la región la oportunidad de cambiar su quehacer profesional por el del gerencial brindándole la oportunidad de formalizar, ampliar y actualizar sus conocimientos en un ambiente académico altamente práctico.</li>
 				</ul>
 
-				<h2>Dirigido A:</h2>
-				<ul>
-				    <li>Egresado de cualquier licenciatura que busquen conocimiento de finanzas, mercadotecnia o logística en el plano corporativo, que cuenten con bases sólidas en matemática, administración, finanzas, contabilidad, mercadotecnia y economía, además de características personales tales como: creatividad, liderazgo, actividades, extracurriculares y motivación.</li>
-				    <li>Profesionales del sector empresarial público y/o privado</li>
-				    <li>Asesores y consultores en empresas en temas comerciales</li>
-				</ul>
-
+				<div id="dirigido">
+					<h2>Dirigido A:</h2>
+					<ul>
+					    <li>Egresado de cualquier licenciatura que busquen conocimiento de finanzas, mercadotecnia o logística en el plano corporativo, que cuenten con bases sólidas en matemática, administración, finanzas, contabilidad, mercadotecnia y economía, además de características personales tales como: creatividad, liderazgo, actividades, extracurriculares y motivación.</li>
+					    <li>Profesionales del sector empresarial público y/o privado</li>
+					    <li>Asesores y consultores en empresas en temas comerciales</li>
+					</ul>
+				</div>
 				<!-- <img src="imagenes/curricula_magadmin.jpg" alt="foto ciudad"> -->
 				
 				<table border="0" cellpadding="1" cellspacing="8" width="700">

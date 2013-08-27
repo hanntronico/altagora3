@@ -11,7 +11,7 @@
 
 	<div id="contenedor">
 		<?php include ("cabecera.php"); ?>
-		<?php include ("izq_preinscrip.php"); ?>
+		<?php include ("izq_enconst.php"); ?>
 		
 		
 		<div id="cuerpo">

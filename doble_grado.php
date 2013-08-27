@@ -49,7 +49,7 @@
 			</div>
 		</div>
 
-		<br>
+		<br><br><br>
 
 		<?php include ("pie.php"); ?>
 		<br><br><br>

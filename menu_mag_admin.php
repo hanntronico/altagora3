@@ -6,7 +6,7 @@
 			<div id="opcmagadmin02">
 				<ul>
 				    <a href="#"><li>Presentación</li></a>
-				    <a href="#"><li>Dirigido a</li></a>
+				    <a href="#dirigido"><li>Dirigido a</li></a>
 				    <a href="#"><li>Estructura Curricular</li></a>
 				</ul>
 			</div>

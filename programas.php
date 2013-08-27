@@ -48,17 +48,15 @@
 							</ul>	
 						</td>
 					</tr>
-
-					</tr>
 				</table>
 
 			</div>
 		</div>
 
-		<br>
+		<br><br>
 
 		<?php include ("pie.php"); ?>
-		<br><br><br>
+		<br>
 	</div>
 
 

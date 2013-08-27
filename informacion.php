@@ -41,7 +41,7 @@
 		<br><br><br>
 
 		<?php include ("pie.php"); ?>
-		<br><br><br>
+		<br>
 	</div>
 
 

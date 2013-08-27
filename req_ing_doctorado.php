@@ -11,7 +11,7 @@
 
 	<div id="contenedor">
 		<?php include ("cabecera.php"); ?>
-		<?php include ("izq_programas.php"); ?>
+		<?php include ("izq_informacion.php"); ?>
 		
 		<div id="cuerpo">
 			<h1>Requisitos de Ingreso</h1>

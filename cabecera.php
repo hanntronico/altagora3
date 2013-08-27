@@ -2,7 +2,7 @@
 		<div id="barrasup">
 			<div id="barramenusup">
 				<ul class="menuh">
-				    <li><a href="#">P&aacute;gina Principal</a></li>
+				    <li><a href="index.php">P&aacute;gina Principal</a></li>
 				    <li><a href="#">Intranet</a></li>
 				    <li><a href="#">Correo Web</a></li>
 				    <li><a href="contactanos.php">Cont&aacute;ctenos</a></li>

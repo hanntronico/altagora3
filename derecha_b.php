@@ -32,7 +32,7 @@
 	</div>
 
 	<div id="block03">
-		<a href="doble_grado.php"><div class="dblgrado">Doble Grado Internacional</div></a>
+		<a href="en_construccion.php"><div class="dblgrado">Doble Grado Internacional</div></a>
 	</div>
 
 	<div id="block04">
