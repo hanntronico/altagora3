@@ -5,6 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link href="css/styles.css" rel="stylesheet" type="text/css" />
 <script src="flash/Scripts/swfobject_modified.js" type="text/javascript"></script>
+
 </head>
 
 <body>
@@ -14,30 +15,79 @@
 		<?php include ("izq_presentacion.php"); ?>
 		
 		<div id="cuerpo">
-			<h1>Historia</h1>
-<!-- 			<div id="foto">
-				<img src="imagenes/foto_filial.jpg" alt="foto ciudad"> <br><br>
-			</div>
-			<br> -->
+			<h1>Convenios</h1>
+	<!-- 	<div id="foto">
+					<img src="imagenes/foto_filial.jpg" alt="foto ciudad"> <br><br>
+				</div>
+				<br> -->
 			
 			<div id="texto_magadmin">
-				<!-- <h2>Reseña Historica </h2> -->
-				<p>La Universidad de Chiclayo, fue creada mediante Ley Nº 24086, el 11 de Enero de 1985, dando inicio a sus labores académicas con las Carreras Profesionales de Arquitectura y Urbanismo y la Facultad de Ciencias de la Salud, con la Escuela Profesional de Obstetricia.</p>
 
-				<p>Posteriormente, se modifica el Art. 02 de la Ley de Creación mediante Ley Nº 2478 el 22 de Diciembre de 1987, ampliando las Carreras Profesionales de Ciencias de la Salud, con las Escuelas Profesionales de Tecnología Médica con la especialidad de Radiología, Terapia Física y Rehabilitación y Laboratorio Clínico; Facultad de Educación con las Escuelas Profesionales de Educación Inicial y Educación Especial.</p>
-				
-				<p>En el año 1992 la Universidad de Chiclayo adquiere su plena autonomía eligiendo a sus máximas autoridades. 
-				En 1993 se aprueban las Carreras Profesionales de Derecho, Ingeniería Informática y de Sistemas, Psicología, Administración de Empresas, Contabilidad, Economía; del mismo modo se amplía la Facultad de Educación con Educación Primaria y Secundaria.
-				</p>
+				<article id="convenio">
+					<div id="img_conv">
+						<img src="imagenes/convenios/uni_york.jpg" alt="uni_york.jpg">	
+					</div>
 
-				<p>A la fecha la Universidad de Chiclayo cuenta con 9 facultades y 16 Escuelas Profesionales, habiéndose creado la Facultad de Medicina Humana y la Escuela Profesional de Enfermería Al presente año ya contamos con la apertura de las Escuelas de Ingeniería Civil y Marketing.
-				En la Actualidad contamos con una infraestructura moderna distribuida en el campo universitario ubicado en el Km. 4.5 de la carretera a al Balneario de Pimentel y el edificio de la Urb. Miraflores donde funciona la Facultad de Derecho. Asimismo las funciones administrativas se realizan en el local de Miraflores Mz H Lote 9 y la Escuela de Post Grado en Juan Manuel Iturregui 133.
-				</p>	
+					<div id="cont_conv">
+						<b>Universidad de York, USA</b> <br> <hr>
+						Gracias al convenio firmado con la Universidad de York del estado de Alabama de Estados Unidos, un total de cinco Facultades y la Escuela de Postgrado con la Maestría de Administración de Negocios ofrecen el Doble Grado Internacional.
+					</div>
+				</article>
 
+				<article id="convenio">
+					<div id="img_conv">
+						<img src="imagenes/convenios/uni_puebla.jpg" alt="uni_puebla.jpg">	
+					</div>
 
+					<div id="cont_conv">
+						<b>Benemérita Universidad Autónoma de Puebla, México</b> <br> <hr>
+						Estudiantes y Docentes de las Facultades comunes podrán participar de pasantías en la Universidad Autónoma Benemérita de Puebla, México, gracias al convenio firmado con la Institución Educativa.
+					</div>
+				</article>
 
+				<article id="convenio">
+					<div id="img_conv">
+						<img src="imagenes/convenios/unam.jpg" alt="unam.jpg">	
+					</div>
 
+					<div id="cont_conv">
+						<b>Universidad Nacional Autónoma de México</b> <br> <hr>
+						Permite el intercambio de experiencias académicas a través de estudiantes y docentes, desarrollo de cursos de Post Grado, Diplomados y programa de Educación Virtual.
+					</div>
+				</article>
 
+				<article id="convenio">
+					<div id="img_conv">
+						<img src="imagenes/convenios/uni_ecuador.jpg" alt="uni_ecuador.jpg">	
+					</div>
+
+					<div id="cont_conv">
+						<b>Universidad Central de Ecuador</b> <br> <hr>
+						Facilitar el intercambio por tiempo determinado de investigadores, docentes y estudiantes. Favorecer la participación de proyectos y programas de investigación y desarrollo bilateral y multiliteral. Cooperar en programas formación de personal investigador y técnico.
+					</div>
+				</article>
+
+				<article id="convenio">
+					<div id="img_conv">
+						<img src="imagenes/convenios/uni_cuenca.jpg" alt="uni_cuenca.jpg">	
+					</div>
+
+					<div id="cont_conv">
+						<b>Universidad de Cuenca Ecuador</b> <br> <hr>
+						Permite el intercambio de experiencias académicas, planes de estudios, desarrollo de programas conjuntos, intercambio de docentes, intercambio de alumnos de Pre Grado y Post Grado.
+					</div>
+				</article>
+
+				<article id="convenio">
+					<div id="img_conv">
+						<img src="imagenes/convenios/uni_biobio.jpg" alt="uni_biobio.jpg">	
+					</div>
+
+					<div id="cont_conv">
+						<b>Universidad de Bio Bio, Chile</b> <br> <hr>
+							Intercambio estudiantil de las diferentes Facultades con dicha Universidad Chilena. La institución Chilena facilita la alimentación, hospedaje y exoneración de matrícula.
+					</div>
+				</article>
 
 			</div>
 		</div>

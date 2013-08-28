@@ -9,6 +9,10 @@ body{
   	padding: 0;
 }
 
+img {
+	border: none;
+}
+
 #fondo{
     position:fixed !important;
 	z-index: -1; 
@@ -491,6 +495,126 @@ body{
 	margin: 0px;
 
 }
+
+#convenio {
+	background: #FFFFFF;
+	/*border: 2px solid #0072B9;*/
+	border: 2px solid #0072B9;
+	box-shadow: 4px 4px 4px #888888;
+	padding: 6px;
+	margin: 5px;
+	margin-bottom: 20px;
+}
+
+#img_conv, #cont_conv {
+	vertical-align: top;
+	display: inline-block;
+}
+
+#img_conv {
+	background: #FFFFFF;
+	/*border: 2px solid #0072B9;*/
+	width: 130px;
+	height: 130px;
+}
+
+#cont_conv {
+	width: 525px;
+	height: 130px;
+	text-align: justify;
+	padding-left: 12px; 
+}
+
+#public {
+	background: #FFFFFF;
+	/*border: 2px solid #0072B9;*/
+	border: 2px solid #0072B9;
+	box-shadow: 4px 4px 4px #888888;
+	padding: 6px;
+	margin: 5px;
+	margin-bottom: 35px;
+}
+
+#img_public, #cont_public {
+	vertical-align: top;
+	display: inline-block;
+}
+
+#img_public {
+	background: #808080;
+	/*border: 2px solid #0072B9;*/
+	width: 250px;
+	height: 180px;
+}
+
+#cont_public {
+	width: 400px;
+	height: 130px;
+	text-align: justify;
+	padding-left: 12px; 
+}
+
+#cont_public a {
+	text-decoration: none;
+}
+
+#cnt_btn {
+	/*background: #804040;*/
+	padding-left: 300px;
+	text-align: right;
+}
+
+#btn_ver {
+	background: #0072B9;
+	-webkit-border-radius: 8px;  
+    -moz-border-radius: 8px;  
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-weight: bolder;  
+	width: 60px;
+	height: 20px;
+	padding: 5px;
+	text-align: center;
+}
+
+
+#comun {
+	background: #FFFFFF;
+	/*border: 2px solid #0072B9;*/
+	border: 2px solid #0072B9;
+	box-shadow: 4px 4px 4px #888888;
+	padding: 6px;
+	margin: 5px;
+	margin-bottom: 35px;
+}
+
+#img_comu_izq, #cont_comu_izq {
+	vertical-align: top;
+	display: inline-block;
+}
+
+#img_comu_izq {
+	background: #808080;
+	/*border: 2px solid #0072B9;*/
+	width: 250px;
+	height: 180px;
+}
+
+#cont_comu_izq {
+	width: 400px;
+	height: 130px;
+	text-align: justify;
+	padding-left: 12px; 
+	padding-right: 12px;
+}
+
+#cont_comu_izq a {
+	text-decoration: none;
+}
+
+
+
+
 
 /*************************************************************************************************/
 

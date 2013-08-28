@@ -80,7 +80,7 @@ jQuery(document).ready(function(){
         showtimer:false,
         navradius:20,
         navshowpreview:false,
-        navmarginy:350,
+        navmarginy:335,
         navmarginx:20,
         navfeaturedarrowimage:"featuredarrow-16-8-0.png",
         navfeaturedarrowimageheight:8,

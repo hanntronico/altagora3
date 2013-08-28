@@ -12,19 +12,29 @@
   <div id="amazingslider-1" style="display:block;position:relative;margin:1px auto 32px;">
     <ul class="amazingslider-slides" style="display:none;">
       <li>
-        <img src="slide/images/img_slide01.jpg" alt="Altagora Escuela de Post-Grado: IMG 01" />
+        <a href="#">
+          <img src="slide/images/img_slide01.jpg" alt="Estudiantes y representantes del tercio estudiantil participan en Cine Forum que estuvo a Cargo del Arq. Alberto Ortiz Prieto" />hanntronico
+        </a>
       </li>
       <li>
-        <img src="slide/images/IMG_1935 ok.jpg" alt="Altagora Escuela de Post-Grado: IMG 02" />
+        <a href="#">
+          <img src="slide/images/IMG_1935 ok.jpg" alt="Altagora Escuela de Post-Grado: IMG 02" />
+        </a>
       </li>
       <li>
-        <img src="slide/images/foto_slide3.jpg" alt="Altagora Escuela de Post-Grado: IMG 03" />
+        <a href="#">
+          <img src="slide/images/foto_slide3.jpg" alt="Altagora Escuela de Post-Grado: IMG 03" />
+        </a>  
       </li>
       <li>
-        <img src="slide/images/IMG_1922.JPG" alt="Altagora Escuela de Post-Grado: IMG 04" />
+        <a href="#">
+          <img src="slide/images/IMG_1922.JPG" alt="Altagora Escuela de Post-Grado: IMG 04" />
+        </a>  
       </li>
       <li>
-        <img src="slide/images/IMG_9017.jpg" alt="Altagora Escuela de Post-Grado: IMG 05" />
+        <a href="#">
+          <img src="slide/images/IMG_9017.jpg" alt="Altagora Escuela de Post-Grado: IMG 05" />
+        </a>  
       </li>
     </ul>
   </div>

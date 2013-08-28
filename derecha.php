@@ -31,7 +31,7 @@
 
 		<div id="block02">
 			<!-- <img src="imagenes/webmaq_12.jpg" width="198" height="90" alt=""> -->
-			<a href="#"><div class="publicaciones">Publicaciones</div></a>
+			<a href="publicaciones.php"><div class="publicaciones">Publicaciones</div></a>
 		</div>
 		<div id="block03">
 			<!-- <img src="imagenes/webmaq_16.jpg" width="198" height="104" alt=""> -->

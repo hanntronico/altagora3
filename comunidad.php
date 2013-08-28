@@ -11,54 +11,53 @@
 
 	<div id="contenedor">
 		<?php include ("cabecera.php"); ?>
-		<?php include ("izq_presentacion.php"); ?>
+		<?php include ("izq_enconst.php"); ?>
 		
 		<div id="cuerpo">
-			<h1>Filial Jaen </h1>
-			<div id="foto">
+			<h1>Comunidad</h1>
+<!-- 			<div id="foto">
 				<img src="imagenes/foto_filial.jpg" alt="foto ciudad"> <br><br>
 			</div>
-			<br>
+			<br> -->
 			
 			<div id="texto_magadmin">
-				<h2>Reseña Historica </h2>
-				<p>La Escuela de Post Grado inicia sus labores en el Semestre Académico 2009-I, realizando la primera convocatoria del  examen de admisión, donde se aperturan las maestrías de Derecho Penal y Procesal Penal, además, de Derecho Civil y de la Empresa. Anteriormente las clases se dictaban en el Hotel Luna del Valle, sin embargo, con la implementación de la  infraestructura de la Universidad de Chiclayo en la localidad de Jaén, se trasladaron las clases a nuestro local en la Calle Pakamuros N°  301 en el 4º piso.</p>
+				<!-- <h2>Reseña Historica </h2> -->
 
-				<h3>Actualmente contamos con las siguientes maestrías: </h3>
-				<ul>
-				    <li>Administración de Negocios. </li>
-				    <li>Gerencia en Servicios de Salud.</li>
-				    <li>Tributación y Gestión Fiscal.</li>
-				    <li>Derecho Penal y Procesal Penal.</li>
-				</ul>
+				<article id="comun">
+					<div id="img_comu_izq">
+						<img src="imagenes/comunidad/comun01.jpg" alt="uni_puebla.jpg">	
+					</div>
 
-				<h3>Horarios: </h3>
-				<ul>
-				    <li>SÁBADOS: 3:00-9:00 pm</li>
-				    <li>DOMINGOS: 8:00-2:00 pm cada 15 días.</li>
-				</ul>
+					<div id="cont_comu_izq">
+						<br>
+						<b>Autoridades del sector publico y privado de Chiclayo integran el doctorado de Administración y dirección de empresas.</b> <br>
+						
+					</div>
+				</article>
 
-				<table border="0" cellpadding="0" cellspacing="0" width="70%">
-						<tr>
-							<td><h4>&nbsp;AL POSTULAR</h4></td>
-							<td><h4>&nbsp;AL INGRESAR</h4></td>
-						</tr>
-						<tr>
-							<td>INSCRIPCIÓN: S/ 50.00</td>
-							<td>MATRÍCULA: S/50.00</td>
-						</tr>
-						<tr>
-							<td>CARPETA: S/150.00</td>
-							<td>CONSTANCIA INGRESO: S/50.00</td>
-						</tr>
-						<tr>
-							<td>&nbsp;</td>	
-							<td>DERECHO TRÁMITE: S/30.00</td>
-						</tr>
-				</table>
-				<br>
-				
-				<b>DURACIÓN:</b> &nbsp;&nbsp;&nbsp;18 MESES
+				<article id="comun">
+
+					<div id="cont_comu_izq">
+						<br>
+						<b>Director de la Escuela de Postgrado Arq. Alberto Ortiz Prieto, da la Bienvenida a nuevos Maestrantes de Tributación y Gestión Fiscal.</b> <br>
+						
+					</div>
+					<div id="img_comu_izq">
+						<img src="imagenes/comunidad/comun02.jpg" alt="uni_puebla.jpg">	
+					</div>
+				</article>
+
+				<article id="comun">
+					<div id="img_comu_izq">
+						<img src="imagenes/comunidad/comun03.jpg" alt="uni_puebla.jpg">	
+					</div>
+
+					<div id="cont_comu_izq">
+						<br>
+						<b>Estudiantes y personal docente de la Escuela de Postgrado Altagora participa del simulacro de Sismo y Tsunami a nivel nacional.</b> <br>
+						
+					</div>
+				</article>				
 
 			</div>
 		</div>

@@ -28,7 +28,7 @@
 	</div>
 
 	<div id="block02">
-		<a href="#"><div class="publicaciones">Publicaciones</div></a>
+		<a href="publicaciones.php"><div class="publicaciones">Publicaciones</div></a>
 	</div>
 
 	<div id="block03">

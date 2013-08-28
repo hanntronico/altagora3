@@ -6,7 +6,7 @@
 		<a href="presentacion.php"><div id="opcmenu1">Presentaci&oacute;n</div></a>
 		<a href="informacion.php"><div id="opcmenu2">Informaci&oacute;n</div></a>
 		<a href="programas.php"><div id="opcmenu3">Programas Acad&eacute;micos</div></a>
-		<a href="#"><div id="opcmenu4">Comunidad</div></a>
+		<a href="comunidad.php"><div id="opcmenu4">Comunidad</div></a>
 		<a href="#"><div id="opcmenu5">Estudiantes</div></a>
 	</div>
 
