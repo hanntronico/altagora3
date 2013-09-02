@@ -25,12 +25,14 @@
 
 				<article id="comun">
 					<div id="img_comu_izq">
-						<img src="imagenes/comunidad/comun01.jpg" alt="uni_puebla.jpg">	
+						<a href="comunidad01.php">
+							<img src="imagenes/comunidad/comun01.jpg" alt="uni_puebla.jpg">	
+						</a>
 					</div>
 
 					<div id="cont_comu_izq">
 						<br>
-						<b>Autoridades del sector publico y privado de Chiclayo integran el doctorado de Administración y dirección de empresas.</b> <br>
+						<a href="comunidad01.php"><b>Autoridades del sector publico y privado de Chiclayo integran el doctorado de Administración y dirección de empresas.</b></a> <br>
 						
 					</div>
 				</article>
@@ -39,23 +41,29 @@
 
 					<div id="cont_comu_izq">
 						<br>
+						<a href="comunidad02.php">
 						<b>Director de la Escuela de Postgrado Arq. Alberto Ortiz Prieto, da la Bienvenida a nuevos Maestrantes de Tributación y Gestión Fiscal.</b> <br>
-						
+						</a>
 					</div>
 					<div id="img_comu_izq">
-						<img src="imagenes/comunidad/comun02.jpg" alt="uni_puebla.jpg">	
+						<a href="comunidad02.php">
+							<img src="imagenes/comunidad/comun02.jpg" alt="uni_puebla.jpg">	
+						</a>
 					</div>
 				</article>
 
 				<article id="comun">
 					<div id="img_comu_izq">
-						<img src="imagenes/comunidad/comun03.jpg" alt="uni_puebla.jpg">	
+						<a href="comunidad03.php">
+							<img src="imagenes/comunidad/comun03.jpg" alt="uni_puebla.jpg">	
+						</a>	
 					</div>
 
 					<div id="cont_comu_izq">
 						<br>
+						<a href="comunidad03.php">
 						<b>Estudiantes y personal docente de la Escuela de Postgrado Altagora participa del simulacro de Sismo y Tsunami a nivel nacional.</b> <br>
-						
+						</a>
 					</div>
 				</article>				
 

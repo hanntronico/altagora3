@@ -26,8 +26,8 @@
 			<div id="opcprog02">
 				<ul>
 <!-- 				    <a href="pres_doctorado.php"><li>Presentación</li></a> -->
-				    <a href="form_doctorado.php"><li>Objetivos</li></a>
-				    <a href="form_doctorado.php"><li>Ventajas</li></a>
+				    <a href="form_doctorado.php"><li>Características</li></a>
+				    <!-- <a href="form_doctorado.php"><li>Ventajas</li></a> -->
 <!-- 				    <a href="req_ing_doctorado.php"><li>Requisitos de Ingreso</li></a> -->
 					<a href="doc_admin.php"><li>Doctorado en Administración y Dirección de Empresas</li></a>
 					<a href="doc_ger_salud.php"><li>Doctorado en Gerencia de la Salud</li></a>

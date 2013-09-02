@@ -14,7 +14,7 @@
 		<?php include ("izq_presentacion.php"); ?>
 		
 		<div id="cuerpo">
-			<h1>Filial Jaen </h1>
+			<h1>Filial Jaén</h1>
 			<div id="foto">
 				<img src="imagenes/foto_filial.jpg" alt="foto ciudad"> <br><br>
 			</div>

@@ -35,16 +35,19 @@
 				    <li>Solucionar problemas relacionados con la gestión educativa con base en la información generada por la investigación.</li>
 				</ul>
 
-				<h2>Dirigido A:</h2>
-				<ul>
-				    <li>Docentes egresados de las maestrías en administración de negocios de la universidad particular de Chiclayo y de otras universidades públicas y privadas.</li>
-				    <li>Docentes egresados de otras maestrías: educación, economía, tributación, derecho, entre otras.</li>
-				    <li>Profesionales del sector empresarial público y privado, egresados de la maestría en administración de negocios y de otras especialidades.</li>
-				    <li>Profesionales: docentes, investigadores, consultores y ejecutivos con grado académico de doctor y deseen estudiar el doctorado en docencia universitaria y gerencia educativa.</li>
-				</ul>
+				<div id="dirigido">			
+					<h2>Dirigido A:</h2>
+					<ul>
+					    <li>Docentes egresados de las maestrías en administración de negocios de la universidad particular de Chiclayo y de otras universidades públicas y privadas.</li>
+					    <li>Docentes egresados de otras maestrías: educación, economía, tributación, derecho, entre otras.</li>
+					    <li>Profesionales del sector empresarial público y privado, egresados de la maestría en administración de negocios y de otras especialidades.</li>
+					    <li>Profesionales: docentes, investigadores, consultores y ejecutivos con grado académico de doctor y deseen estudiar el doctorado en docencia universitaria y gerencia educativa.</li>
+					</ul>
+				</div>	
 
 				<!-- <img src="imagenes/curricula_magadmin.jpg" alt="foto ciudad"> -->
 				
+				<div id="curricula">
 				<table border="0" cellpadding="1" cellspacing="8" width="700">
 					<tr>
 						<td rowspan="2" bgcolor="#84AFCE" class="tblblanco">CURSOS <br> CICLO I</td>
@@ -123,40 +126,11 @@
 					</tr>
 
 				</table>
-				
-				
-
-
-<!--			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-					<tr>
-						<td width="48%">
-							<div class="titu_prgmaestrias">Maestrías</div>
-							<ul>
-							    <li>Maestría en Administración de Negocios</li>
-							    <li>Maestría en Derecho Penal y Procesal Penal</li>
-							    <li>Maestría en Derecho Civil y de la Empresa</li>
-							    <li>Maestría en Docencia Universitaria y Gerencia Educativa</li>
-							    <li>Maestría en Tributación y Gestión Fiscal</li>
-							</ul>
-						</td>
-						<td width="10"></td>
-						<td width="48%">
-							<div class="titu_prgdoctorados">Doctorados</div>
-							<ul>
-							    <li>Doctorado en Administración y Dirección de Empresas</li>
-							    <li>Doctorado en Gerencia de Salud</li>
-							    <li>Doctorado en Ciencias de la Educación</li>
-							    <li>&nbsp;</li>
-							    <li>&nbsp;</li>
-							</ul>	
-						</td>
-					</tr>
-				</table> -->
-
+				</div>
 			</div>
 		</div>
 
-		<br>
+		<br><br><br>
 
 		<?php include ("pie.php"); ?>
 		<br><br><br>

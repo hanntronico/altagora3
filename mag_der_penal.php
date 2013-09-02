@@ -31,19 +31,21 @@
 				    <li>Generar conciencia de actitud en el abogado litigante para mejorar sistemas y procedimientos, ordenamiento e instituciones procesales en el Perú. </li>
 				</ul>
 
-				<h2>Dirigido A:</h2>
-				<ul>
-				    <li>Profesionales del derecho.</li>
-				    <li>Abogados defensores en el área penal con especialización en derecho procesal penal.</li>
-				    <li>Magistrados, jueces, vocales o fiscales en el área procesal penal.</li>
-				    <li>Consultores o asesores en materia penal y procesal penal.</li>
-				    <li>Investigadores o docentes de derecho penal y derecho procesal penal.</li>
-				    <li>Profesionales interesados en actualizarse en la regulación contenida en el nuevo código penal y el proceso penal acusatorio.</li>
-				</ul>
+				<div id="dirigido">
+					<h2>Dirigido A:</h2>
+					<ul>
+					    <li>Profesionales del derecho.</li>
+					    <li>Abogados defensores en el área penal con especialización en derecho procesal penal.</li>
+					    <li>Magistrados, jueces, vocales o fiscales en el área procesal penal.</li>
+					    <li>Consultores o asesores en materia penal y procesal penal.</li>
+					    <li>Investigadores o docentes de derecho penal y derecho procesal penal.</li>
+					    <li>Profesionales interesados en actualizarse en la regulación contenida en el nuevo código penal y el proceso penal acusatorio.</li>
+					</ul>
+				</div>
 
 				<!-- <img src="imagenes/curricula_magadmin.jpg" alt="foto ciudad"> -->
 
-				
+				<div id="curricula">
 				<table border="0" cellpadding="1" cellspacing="8" width="700">
 					<tr>
 						<td rowspan="2" bgcolor="#84AFCE" class="tblblanco">CURSOS <br> CICLO I</td>
@@ -131,7 +133,7 @@
 					</tr>
 
 				</table>
-				
+				</div>
 				
 
 

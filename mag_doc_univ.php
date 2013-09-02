@@ -32,16 +32,18 @@
 				    <li>Acreditar investigaciones en las ciencias de la educación para el desempeño en la docencia universitaria al más alto nivel.</li>
 				</ul>
 
-				<h2>Dirigido A:</h2>
-				<ul>
-				    <li>Docentes y directivos docentes del sector privado y público.</li>
-				    <li>Coordinadores educativos de organizadores no gubernamentales.</li>
-				    <li>Secretarios en educación, universitarias y de empresas.</li>
-				</ul>
+				<div id="dirigido">	
+					<h2>Dirigido A:</h2>
+					<ul>
+					    <li>Docentes y directivos docentes del sector privado y público.</li>
+					    <li>Coordinadores educativos de organizadores no gubernamentales.</li>
+					    <li>Secretarios en educación, universitarias y de empresas.</li>
+					</ul>
+				</div>	
 
 				<!-- <img src="imagenes/curricula_magadmin.jpg" alt="foto ciudad"> -->
 
-				
+				<div id="curricula">
 				<table border="0" cellpadding="1" cellspacing="8" width="700">
 					<tr>
 						<td rowspan="2" bgcolor="#84AFCE" class="tblblanco">CURSOS <br> CICLO I</td>
@@ -120,7 +122,7 @@
 					</tr>
 
 				</table>
-				
+				</div>
 				
 
 
@@ -153,7 +155,7 @@
 			</div>
 		</div>
 
-		<br>
+		<br><br>
 
 		<?php include ("pie.php"); ?>
 		<br><br><br>

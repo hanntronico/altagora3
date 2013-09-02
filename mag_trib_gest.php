@@ -31,15 +31,16 @@
 				    <li>Perfeccionar la capacidad de redactar informes y dictámenes; así como la de proceder a su exposición pública y a la defensa de los argumentos propios.</li>
 				    <li>Ayudar a los futuros profesionales a desarrollar sus habilidades para asimilar rápidamente la información, identificar con eficacia problemas jurídicos, reunir la información pertinente con rapidez y fomentar las herramientas de gestión del tiempo necesarias para un escenario de trabajo igualmente exigente.</li>
 				</ul>
-
-				<h2>Dirigido A:</h2>
-				<ul>
-				    <li>En particular se dirige fundamentalmente a: los profesionales en derecho, ciencias económicas, empresariales o en administración y dirección de empresas que desean iniciarse en la práctica de la asesoría fiscal; así como a los profesionales titulados que se dedican a esta actividad y buscan en el máster respuesta a las dificultades que les surgen en el ejercicio diario de su profesión.</li>
-				</ul>
-
+				<div id="dirigido">
+					<h2>Dirigido A:</h2>
+					<ul>
+					    <li>En particular se dirige fundamentalmente a: los profesionales en derecho, ciencias económicas, empresariales o en administración y dirección de empresas que desean iniciarse en la práctica de la asesoría fiscal; así como a los profesionales titulados que se dedican a esta actividad y buscan en el máster respuesta a las dificultades que les surgen en el ejercicio diario de su profesión.</li>
+					</ul>
+				</div>
+					
 				<!-- <img src="imagenes/curricula_magadmin.jpg" alt="foto ciudad"> -->
 
-				
+				<div id="curricula">
 				<table border="0" cellpadding="1" cellspacing="8" width="700">
 					<tr>
 						<td rowspan="2" bgcolor="#84AFCE" class="tblblanco">CURSOS <br> CICLO I</td>
@@ -118,7 +119,7 @@
 					</tr>
 
 				</table>
-				
+				</div>
 				
 
 

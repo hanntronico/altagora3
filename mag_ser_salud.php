@@ -35,14 +35,16 @@
 				    <li>Potenciar su capacidad de trabajo en equipo y de liderazgo.</li>
 				</ul>
 
-				<h2>Dirigido A:</h2>
-				<ul>
-				    <li>Médicos y otros profesionales de la salud de diversas instituciones públicas y privadas que actualmente, o en perspectiva, están en posiciones de liderazgo, dirección o gestión de instituciones de servicios de salud.</li>
-				</ul>
+				<div id="dirigido">
+					<h2>Dirigido A:</h2>
+					<ul>
+					    <li>Médicos y otros profesionales de la salud de diversas instituciones públicas y privadas que actualmente, o en perspectiva, están en posiciones de liderazgo, dirección o gestión de instituciones de servicios de salud.</li>
+					</ul>
+				</div>
 
 				<!-- <img src="imagenes/curricula_magadmin.jpg" alt="foto ciudad"> -->
 
-				
+				<div id="curricula">
 				<table border="0" cellpadding="1" cellspacing="8" width="700">
 					<tr>
 						<td rowspan="2" bgcolor="#84AFCE" class="tblblanco">CURSOS <br> CICLO I</td>
@@ -121,7 +123,7 @@
 					</tr>
 
 				</table>
-				
+				</div>
 				
 
 

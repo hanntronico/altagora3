@@ -4,7 +4,7 @@
 				<ul class="menuh">
 				    <li><a href="index.php">P&aacute;gina Principal</a></li>
 				    <li><a href="#">Intranet</a></li>
-				    <li><a href="#">Correo Web</a></li>
+				    <li> <a href="mailto:altagora@udch.edu.pe?subject=feedback" "email me">Correo Web</a></li>
 				    <li><a href="contactanos.php">Cont&aacute;ctenos</a></li>
 				    <li><a href="#">English</a></li>
 				</ul>

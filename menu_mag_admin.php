@@ -1,5 +1,5 @@
 		<div id="menuizq_magadmin">
-			<a href="presentacion.php"><div id="opcmagadmin01">
+			<a href="#"><div id="opcmagadmin01">
 				Administración de Negocios
 			</div></a>
 
@@ -7,7 +7,7 @@
 				<ul>
 				    <a href="#"><li>Presentación</li></a>
 				    <a href="#dirigido"><li>Dirigido a</li></a>
-				    <a href="#"><li>Estructura Curricular</li></a>
+				    <a href="#curricula"><li>Estructura Curricular</li></a>
 				</ul>
 			</div>
 

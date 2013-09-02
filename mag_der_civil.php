@@ -29,19 +29,20 @@
 				    <li>Contar con profundos conocimientos sobre los antecedentes y desarrollo de cada tema y capacidad de respuesta para los nuevos desafíos que la realidad  jurídica nacional e internacional plantea.</li>
 				    <li>Incursionar hábilmente en los problemas de la ciencia del derecho en un mundo globalizado, calificado para desempeñarse profesionalmente tanto en la actividad privada, como en el poder judicial o en la administración.</li>
 				</ul>
-
-				<h2>Dirigido A:</h2>
-				<ul>
-				    <li>Abogados especialistas en derecho privado asociados de firmas de abogados.</li>
-				    <li>Consultores o asesores legales externos especialistas en derecho civil, que se desempeñen en instituciones tanto publicas, como privadas.</li>
-				    <li>Investigadores calificados en el  campo del derecho privado.</li>
-				    <li>Asesores académicos de revistas jurídicas de derecho civil.</li>
-				    <li>Docentes universitarios a nivel de pre y posgrado en el ámbito de las ciencias jurídicas.</li>
-				</ul>
-
+				
+				<div id="dirigido">
+					<h2>Dirigido A:</h2>
+					<ul>
+					    <li>Abogados especialistas en derecho privado asociados de firmas de abogados.</li>
+					    <li>Consultores o asesores legales externos especialistas en derecho civil, que se desempeñen en instituciones tanto publicas, como privadas.</li>
+					    <li>Investigadores calificados en el  campo del derecho privado.</li>
+					    <li>Asesores académicos de revistas jurídicas de derecho civil.</li>
+					    <li>Docentes universitarios a nivel de pre y posgrado en el ámbito de las ciencias jurídicas.</li>
+					</ul>
+				</div>
 				<!-- <img src="imagenes/curricula_magadmin.jpg" alt="foto ciudad"> -->
 
-				
+				<div id="curricula">
 				<table border="0" cellpadding="1" cellspacing="8" width="700">
 					<tr>
 						<td rowspan="2" bgcolor="#84AFCE" class="tblblanco">CURSOS <br> CICLO I</td>
@@ -125,7 +126,7 @@
 					</tr>
 
 				</table>
-				
+				</div>
 				
 
 

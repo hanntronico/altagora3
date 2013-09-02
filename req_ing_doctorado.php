@@ -23,13 +23,21 @@
 			<div id="texto_magadmin">
 				<!-- <h2>Principales Características del Doctorado</h2> -->
 			
+				<h3>Ficha de inscripción</h3>
 				<ul>
-				    <li>Ficha de inscripción</li>
-				    <li>Pago por derecho de inscripción s/. 200. Bco. continental(n° cuenta 011027901000158369)</li>
-				    <li>Copia legalizada de DNI</li>
-				    <li>Certificados de estudios de maestría </li>
-				    <li>Copia legalizada de grado académico de magister</li>
-				    <li>Currículo vitae no documentado ( descriptivo)</li>
+<!--       Ficha de inscripción
+-          Pago por derecho de inscripción s/. 200. Bco. Continental (N° cuenta 01102790100015836).
+-          Copia legalizada de Documento de Identidad
+-          Copia de Grado Académico de Bachiller (Maestría)
+-          Copia de Grado Académico de Maestría (Doctorado)
+Copia Legalizada de Grado Académico de Magister (Doctorado) -->
+
+
+				    <li>Pago por derecho de inscripción s/. 200. Bco. continental (N° cuenta 011027901000158369)</li>
+				    <li>Copia legalizada de Documento de Identidad</li>
+				    <li>Copia de Grado Académico de Bachiller (Maestría)</li>
+				    <li>Copia de Grado Académico de Maestría (Doctorado)</li>
+				    <li>Copia Legalizada de Grado Académico de Magister (Doctorado)</li>
 				    <li>Copia legalizada de partida de nacimiento</li>
 				    <li>2 cartas de referencia profesional</li>
 				    <li>03 fotografías tamaño pasaporte fondo blanco</li>
@@ -61,8 +69,8 @@
                     DOMINGO 8.00AM A 2.00PM  <br>
 
                     <ul>
-                    	<li>La duración del doctorado será de 24 meses académicos.</li>
-                    	<li>Con un contenido de 576 horas académicas.</li>
+                    	<li>La duración de la maestría será de 18 meses académicos, con un contenido de 432 horas académicas.</li>
+                    	<li>La duración del doctorado será de 24 meses académicos, con un contenido de 576 horas académicas.</li>
                     </ul>
 
                 <br>    
@@ -76,7 +84,7 @@
 			</div>
 		</div>
 
-		<br>
+		<br><br>
 
 		<?php include ("pie.php"); ?>
 		<br><br><br>

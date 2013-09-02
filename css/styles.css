@@ -13,6 +13,7 @@ img {
 	border: none;
 }
 
+
 #fondo{
     position:fixed !important;
 	z-index: -1; 
@@ -608,13 +609,14 @@ img {
 	padding-right: 12px;
 }
 
-#cont_comu_izq a {
+#cont_comu_izq a:link, #cont_comu_izq a:visited  {
 	text-decoration: none;
+	color: #000000;
 }
 
-
-
-
+#volver a {
+	text-decoration: none;
+}
 
 /*************************************************************************************************/
 

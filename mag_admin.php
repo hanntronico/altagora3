@@ -41,6 +41,7 @@
 				</div>
 				<!-- <img src="imagenes/curricula_magadmin.jpg" alt="foto ciudad"> -->
 				
+				<div id="curricula">
 				<table border="0" cellpadding="1" cellspacing="8" width="700">
 					<tr>
 						<td rowspan="2" bgcolor="#84AFCE" class="tblblanco">CURSOS <br> CICLO I</td>
@@ -119,7 +120,7 @@
 					</tr>
 
 				</table>
-				
+				</div>
 				
 
 
